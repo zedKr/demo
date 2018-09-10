@@ -1,6 +1,6 @@
 .btn{
-    color: black;
-    background-color: white;
+    color: white;
+    background-color: rgb(105, 33, 172);
     box-shadow: 1px 1px 2px rgba(0,0,0,.2);
     padding: 8px 12px;
     border: 1px solid rgba(0,0,0,.1);
